@@ -1,0 +1,2778 @@
+
+
+    #body {
+            margin: 0 auto;
+            width: 80%;
+            clear: both;
+        }
+    .left-box{
+            float: none;
+            width: 100%;
+            position: absolute;
+            width: 375px;
+            height: 947px;
+            left: 0px;
+            top: 0px;
+            background: linear-gradient(180deg, #2B2B36 0%, #16181A 100%);
+        }
+        
+    .left-box .heading1{
+            position: absolute;
+            width: 243px;
+            height: 35px;
+            left: 50px;
+            top: 35px;
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: 500;
+            font-size: 30px;
+            line-height: 35px;
+            color: #FFFFFF;
+        }
+
+    .right-box .title{
+            position: absolute;
+            width: 195px;
+            height: 60px;
+            left: 1050px;
+            top: 30px;
+            font-family: Alegreya Sans SC;
+            font-style: normal;
+            font-weight: 900;
+            font-size: 50px;
+            line-height: 60px;
+            color: #403D3D;
+        }
+        .right-box .sub-head{
+            position: absolute;
+            width: 278px;
+            height: 35px;
+            left: 1008px;
+            top: 140px;
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: 500;
+            font-size: 30px;
+            line-height: 35px;
+            text-align: center;
+            color: #000000;
+        }
+        .right-box .e-commerce-border{
+            position: absolute;
+            width: 150px;
+            height: 149px;
+            left: 547px;
+            top: 233px;
+        }
+        .right-box .tick{
+            position: absolute;
+            width: 25px;
+            height: 25px;
+            left: 679px;
+            top: 225px;
+        }
+        .right-box .icon{
+            position: absolute;
+            width: 64.17px;
+            height: 56px;
+            left: 590px;
+            top: 263px;
+        }
+        .right-box h3{
+            position: absolute;
+            width: 80px;
+            height: 16px;
+            left: 582px;
+            top: 346px;
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: 500;
+            font-size: 14px;
+            line-height: 16px;
+            color: #212121;
+        }
+        .right-box .icon-bar .crm-logo{
+            position: absolute;
+            width: 41.48px;
+            height: 56px;
+            left: 878px;
+            top: 256px;
+        }
+        .right-box .crm{
+            position: absolute;
+            width: 31px;
+            height: 16px;
+            left: 883px;
+            top: 346px;
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: 500;
+            font-size: 14px;
+            line-height: 16px;
+            color: #212121;
+        }
+        .right-box .inventory-logo{
+            
+            position: absolute;
+            width: 59.34px;
+            height: 56px;
+            left: 1157px;
+            top: 258px;
+        }
+        .right-box .inventory {
+            position: absolute;
+            width: 145px;
+            height: 16px;
+            left: 1114px;
+            top: 346px;
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: 500;
+            font-size: 14px;
+            line-height: 16px;
+            color: #212121;
+        }
+        .right-box .social-logo{
+            position: absolute;
+            width: 54.88px;
+            height: 56px;
+            left: 1439px;
+            top: 260px;
+        }
+        .right-box .social{
+            position: absolute;
+            width: 115px;
+            height: 16px;
+            left: 1409px;
+            top: 346px;
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: 500;
+            font-size: 14px;
+            line-height: 16px;
+            color: #212121;
+        }
+        .right-box .forum-logo {
+            position: absolute;
+            width: 56px;
+            height: 56px;
+            left: 1692px;
+            top: 263px;
+        }
+        .right-box .forum{
+            position: absolute;
+            width: 41px;
+            height: 16px;
+            left: 1699px;
+            top: 346px;
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: 500;
+            font-size: 14px;
+            line-height: 16px;
+            color: #212121;
+        }
+         
+        .right-down-box .team-logo{
+            position: absolute;
+            width: 56px;
+            height: 56px;
+            left: 594px;
+            top: 482px;
+        }
+        .right-down-box .team {
+            position: absolute;
+            width: 122px;
+            height: 16px;
+            left: 561px;
+            top: 568px;
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: 500;
+            font-size: 14px;
+            line-height: 16px;
+            color: #212121;
+        }
+        .right-down-box .project-logo {
+            position: absolute;
+            width: 45.71px;
+            height: 56px;
+            left: 876px;
+            top: 482px;
+        }
+        .right-down-box .project {
+            position: absolute;
+            width: 131px;
+            height: 16px;
+            left: 833px;
+            top: 568px;
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: 500;
+            font-size: 14px;
+            line-height: 16px;
+            color: #212121;
+        }
+        .right-down-box .audio-logo {
+            position: absolute;
+            width: 56px;
+            height: 56px;
+            left: 1158px;
+            top: 482px;
+        }
+        .right-down-box .audio {
+            position: absolute;
+            width: 137px;
+            height: 16px;
+            left: 1118px;
+            top: 568px;
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: 500;
+            font-size: 14px;
+            line-height: 16px;
+            color: #212121;
+        }
+        .right-down-box .static-logo{
+            position: absolute;
+            width: 56px;
+            height: 56px;
+            left: 1438px;
+            top: 482px;
+        }
+        .right-down-box .static{
+            position: absolute;
+            width: 91px;
+            height: 16px;
+            left: 1421px;
+            top: 568px;
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: 500;
+            font-size: 14px;
+            line-height: 16px;
+            color: #212121;
+        }
+        .right-down-box .other-logo{
+            position: absolute;
+            width: 56px;
+            height: 56px;
+            left: 1692px;
+            top: 482px;
+        }
+        .right-down-box .other{
+            position: absolute;
+            width: 35px;
+            height: 16px;
+            left: 1702px;
+            top: 568px;
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: 500;
+            font-size: 14px;
+            line-height: 16px;
+            color: #212121;
+        }
+        .bottom-bar{
+            position: absolute;
+            width: 1510px;
+            height: 75px;
+            left: 375px;
+            top: 871px;
+            background: #EDEDED;
+            border-radius: 0px;
+        }
+        .bottom-bar .previous-btn{
+            position: absolute;
+            width: 110.01px;
+            height: 50px;
+            left: 1190px;
+            top: 5px;
+            
+        }
+        .bottom-bar .next-btn{
+            position: absolute;
+            width: 110.01px;
+            height: 50px;
+            left: 1309.99px;
+            top: 5px;
+            background-color: #000000;
+            color: #FFFFFF;
+        }
+        .left-box .num-1{
+            position: absolute;
+            width: 9.33px;
+            height: 17.89px;
+            left: 60px;
+            top: 133px;
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: normal;
+            font-size: 16px;
+            line-height: 19px;
+            text-align: center;
+            color: #242A3B;
+            position: absolute;
+            width: 30px;
+            height: 30px;
+            left: 50px;
+            top: 153px;
+            background: #FFFFFF;
+            border-radius: 50%;
+        }
+        .left-box .name-1{
+            position: absolute;
+            width: 118px;
+            height: 23px;
+            left: 103px;
+            top: 131px;
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: 500;
+            font-size: 20px;
+            line-height: 23px;
+            color: #FFFFFF;
+         
+        }
+       .left-box .dashed-line{
+        position: absolute;
+        width: 640px;
+        height: 0px;
+        left: -255px;
+        top: 490px;
+        border: 1px dashed #565F5E;
+        transform: rotate(90deg);
+       }
+        .left-box .num-2 {
+            position: absolute;
+            width: 9.33px;
+            height: 17.89px;
+            left: 60px;
+            top: 266px;
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: normal;
+            font-size: 16px;
+            line-height: 19px;
+            text-align: center;
+            color: #1E2925;
+            position: absolute;
+            width: 30px;      
+            height: 30px;
+            left: 50px;
+            top: 260px;
+            background: #565F5E;
+            border-radius: 50%;
+        }
+        .left-box .name-2 {
+            position: absolute;
+            width: 78px;
+            height: 23px;
+            left: 103px;
+            top: 235px;
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: normal;
+            font-size: 20px;
+            line-height: 23px;
+            color: #565F5E;
+        }
+        .left-box .num-3{
+            position: absolute;
+            width: 30px;
+            height: 30px;
+            left: 50px;
+            top: 390px;
+            background: #565F5E;
+            border-radius: 50%;
+        }
+        .left-box .name-3{
+            position: absolute;
+            width: 123px;
+            height: 23px;
+            left: 103px;
+            top: 364px;
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: normal;
+            font-size: 20px;
+            line-height: 23px;
+            color: #565F5E;
+        }
+        .left-box .num-4{
+            position: absolute;
+            width: 30px;
+            height: 30px;
+            left: 50px;
+            top: 520px;
+            background: #565F5E;
+            border-radius: 50%;
+        }
+        .left-box .name-4{
+            position: absolute;
+            width: 78px;
+            height: 23px;
+            left: 103px;
+            top: 495px;
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: normal;
+            font-size: 20px;
+            line-height: 23px;
+            color: #565F5E;
+        }
+        .left-box .num-5 {
+            position: absolute;
+            width: 30px;
+            height: 30px;
+            left: 50px;
+            top: 650px;
+            background: #565F5E;
+            border-radius: 50%;
+        }
+         .left-box .name-5{
+            position: absolute;
+            width: 96px;
+            height: 23px;
+            left: 103px;
+            top: 625px;
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: normal;
+            font-size: 20px;
+            line-height: 23px;
+            color: #565F5E;
+         }
+         .left-box .num-6{
+            position: absolute;
+            width: 30px;
+            height: 30px;
+            left: 50px;
+            top: 795px;
+            background: #565F5E;
+            border-radius: 50%;
+         }
+         .left-box .name-6{
+            position: absolute;
+            width: 158px;
+            height: 23px;
+            left: 103px;
+            top: 770px;  
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: normal;
+            font-size: 20px;
+            line-height: 23px;
+            color: #565F5E;
+         }
+         .bottom-bar .footer-1{
+            position: absolute;
+            width: 113px;
+            height: 19px;
+            left:   75px;
+            top: -15px;
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: normal;
+            font-size: 16px;
+            line-height: 19px;
+            /* identical to box height */
+            color: #AAAAAA;
+         }
+         .bottom-bar .dollar-fee{
+            position: absolute;
+            width: 103px;
+            height: 28px;
+            left: 75px;
+            top: 10px;
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: 500;
+            font-size: 24px;
+            line-height: 28px;
+            color: #12191D;
+         }
+         .bottom-bar .footer-2{
+            position: absolute;
+            width: 111px;
+            height: 19px;
+            left: 295px;
+            top: -15px;
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: normal;
+            font-size: 16px;
+            line-height: 19px;
+            /* identical to box height */
+            color: #AAAAAA;
+         }
+         .bottom-bar .time-alloted{
+            position: absolute;
+            width: 89px;
+            height: 28px;
+            left: 295px;
+            top: 10px;
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: 500;
+            font-size: 24px;
+            line-height: 28px;
+            color: #12191D;
+         }
+
+         /* platform2 */
+         .left-box .number-1{
+            position: absolute;
+            width: 9.33px;
+            height: 17.89px;
+            left: 60px;
+            top: 133px;
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: normal;
+            font-size: 16px;
+            line-height: 19px;
+            text-align: center;
+            color: #242A3B;
+            position: absolute;
+            width: 30px;
+            height: 30px;
+            left: 50px;
+            top: 153px;
+            background: #26C749;
+            border-radius: 50%;
+        }
+
+        .left-box .nameclr-1{
+            position: absolute;
+            width: 118px;
+            height: 23px;
+            left: 103px;
+            top: 131px;
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: 500;
+            font-size: 20px;
+            line-height: 23px;
+            color: #26C749;
+         
+        }
+        .left-box .e-commerce-logo-1{
+            position: absolute;
+            width: 16px;
+            height: 16.9px;
+            left: 100px;
+            top: 190px;
+        }
+        .left-box .project-type{
+            position: absolute;
+            width: 99.9px;
+            height: 16.9px;
+            left: 123px;
+            top: 190px;
+            color: #FFFFFF;
+            text-decoration: none;
+        }
+        .right-box .webapp-logo{
+            position: absolute;
+            width: 52px;
+            height: 52px;
+            left: 784px;
+            top: 266px;
+        }
+        .right-box .e-commerce-border-1{
+            position: absolute;
+            width: 160px;
+            height: 160px;
+            left: 730px;
+            top: 225px;
+        }
+        .right-box .tick-1{
+            position: absolute;
+            width: 25px;
+            height: 25px;
+            left: 870px;
+            top: 215px;
+        }
+        .right-box .webapp{
+            position: absolute;
+            width: 55px;
+            height: 16px;
+            left: 782px;
+            top: 341px;
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: 500;
+            font-size: 14px;
+            line-height: 16px;
+            text-align: center;
+            color: #212121;
+        }
+        .right-box .mobile-responsive-logo{
+            position: absolute;
+            width: 50.56px;
+            height: 50.56px;
+            left: 1035px;
+            top: 264px;
+        }
+        .right-box .mobile-responsive{
+            position: absolute;
+            width: 146px;
+            height: 16px;
+            left: 987px;
+            top: 351px;
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: 500;
+            font-size: 14px;
+            line-height: 16px;
+            text-align: center;
+            color: #212121;
+        }
+        .right-box .progresive-web-logo{
+            position: absolute;
+            width: 52.73px;
+            height: 51.56px;
+            left: 1272px;
+            top: 266px;
+        }
+        .right-box .progresive-web{
+            position: absolute;
+            width: 131px;
+            height: 16px;
+            left: 1233px;
+            top: 351px;
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: 500;
+            font-size: 14px;
+            line-height: 16px;
+            text-align: center;
+            color: #212121;
+        }
+        .right-box .hybrid-logo{
+            position: absolute;
+            width: 60.94px;
+            height: 42.19px;
+            left: 1485px;
+            top: 269px;
+        }
+        .right-box .hybrid{
+            position: absolute;
+            width: 68px;
+            height: 16px;
+            left: 1481px;
+            top: 351px;
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: 500;
+            font-size: 14px;
+            line-height: 16px;
+            text-align: center;
+            color: #212121;
+        }
+        .right-box .optional{
+            position: absolute;
+            width: 101px;
+            height: 14px;
+            left: 1464px;
+            top: 377px;
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: normal;
+            font-size: 12px;
+            line-height: 14px;
+            /* identical to box height */
+            text-align: center;
+            color: #AAAAAA;
+        }
+        .right-down-box .android-logo{
+            position: absolute;
+            width: 42.19px;
+            height: 67.97px;
+            left: 1076px;
+            top: 461px;
+        }
+        .right-down-box .android{
+            position: absolute;
+            width: 49px;
+            height: 16px;
+            left: 1073px;
+            top: 555.97px;
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: 500;
+            font-size: 14px;
+            line-height: 16px;
+            text-align: center;
+            color: #212121;
+        }
+
+        .right-down-box .ios-logo{
+            position: absolute;
+            width: 39.84px;
+            height: 67.97px;
+            left: 1272px;
+            top: 461px;
+        }
+        .right-down-box .ios{
+            position: absolute;
+            width: 21px;
+            height: 16px;
+            left: 1281px;
+            top: 555.97px;
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: 500;
+            font-size: 14px;
+            line-height: 16px;
+            text-align: center;
+            color: #212121;
+        }
+
+        /* projectusage3 */
+
+        .left-box .numclr-2 {
+            position: absolute;
+            width: 9.33px;
+            height: 17.89px;
+            left: 60px;
+            top: 266px;
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: normal;
+            font-size: 16px;
+            line-height: 19px;
+            text-align: center;
+            color: #1E2925;
+            position: absolute;
+            width: 30px;      
+            height: 30px;
+            left: 50px;
+            top: 260px;
+            background: #26C749 ;
+            border-radius: 50%;
+        }
+
+        .left-box .nameclr-2 {
+            position: absolute;
+            width: 78px;
+            height: 23px;
+            left: 103px;
+            top: 235px;
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: normal;
+            font-size: 20px;
+            line-height: 23px;
+            color: #26C749;
+        
+        }
+        .left-box .web-app-logo-2{
+            position: absolute;
+            width: 16px;
+            height: 16px;
+            left: 95px;
+            top: 302px;
+        }
+        .left-box .android-logo-3{
+            position: absolute;
+            width: 16px;
+            height: 16px;
+            left: 95px;
+            top: 322px;
+        }
+        .left-box .web-link{
+            position: absolute;
+            width: 99.9px;
+            height: 16.9px;
+            left: 114px;
+            top: 302px;
+            color: #FFFFFF;
+            text-decoration: none;
+        }
+        .left-box .android-link{
+            position: absolute;
+            width: 99.9px;
+            height: 16.9px;
+            left: 114px;
+            top: 320px;
+            color: #FFFFFF;
+            text-decoration: none;
+        }
+        .left-box .ios-link{
+            position: absolute;
+            width: 99.9px;
+            height: 16.9px;
+            left: 114px;
+            top: 340px;
+            color: #FFFFFF;
+            text-decoration: none;
+        }
+        .left-box .vector-logo-3{
+            position: absolute;
+            left: 25%;
+            right: 93.39%;
+            top: 36%;
+            bottom: 61.31%;
+            /* background: #CCCCCC; */
+        }
+        .right-box .sass-box{
+            position: absolute;
+            width: 160px;
+            height: 160px;
+            left: 853px;
+            top: 225px;
+        }
+        .right-box .sass-logo{
+            position: absolute;
+            width: 60.94px;
+            height: 38.67px;
+            left: 902px;
+            top: 271px;
+        }
+        .right-box .sass{
+            position: absolute;
+            width: 33px;
+            height: 16px;
+            left: 902px;
+            top: 352px;
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: 500;
+            font-size: 14px;
+            line-height: 16px;
+            text-align: center;
+            color: #212121;
+        }
+        .right-box .sass-sub-logo{
+            position: absolute;
+            width: 72.66px;
+            height: 60.94px;
+            left: 1137px;
+            top: 260px;
+        }
+        .right-box .sass-sub{
+            position: absolute;
+            width: 109px;
+            height: 16px;
+            left: 1109px;
+            top: 352px;
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: 500;
+            font-size: 14px;
+            line-height: 16px;
+            text-align: center;
+            color: #212121;
+        }
+        .right-box .normal-logo{
+            position: absolute;
+            width: 58.59px;
+            height: 58.59px;
+            left: 1384px;
+            top: 261px;
+        }
+        .right-box .normal{
+            position: absolute;
+            width: 47px;
+            height: 16px;
+            left: 1393px;
+            top: 352px;
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: 500;
+            font-size: 14px;
+            line-height: 16px;
+            text-align: center;
+            color: #212121;
+        }
+
+        /* choosefeautures4 */
+        
+        .left-box .numclr-3{
+            position: absolute;
+            width: 30px;
+            height: 30px;
+            left: 50px;
+            top: 390px;
+            background: #26C749;
+            border-radius: 50%;
+        }
+        .left-box .nameclr-3{
+            position: absolute;
+            width: 123px;
+            height: 23px;
+            left: 103px;
+            top: 364px;
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: normal;
+            font-size: 20px;
+            line-height: 23px;
+            color: #26C749;
+        }
+        .left-box .sass-logo-4{
+            position: absolute;
+            width: 16px;
+            height: 14px;
+            left: 93px;
+            top: 432px;
+        }
+        .left-box .sass-logo-5{
+            position: absolute;
+            width: 16px;
+            height: 14px;
+            left: 93px;
+            top: 458px;
+        }
+        .left-box .numclr-4{
+            position: absolute;
+            width: 30px;
+            height: 30px;
+            left: 50px;
+            top: 520px;
+            background: #FFFFFF;
+            border-radius: 50%;
+        }
+        .left-box .nameclr-4{
+            position: absolute;
+            width: 78px;
+            height: 23px;
+            left: 103px;
+            top: 495px;
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: normal;
+            font-size: 20px;
+            line-height: 23px;
+            color: #FFFFFF;
+        }
+
+        .left-box .sass-link{
+            position: absolute;
+            width: 55px;
+            height: 14px;
+            left: 113px;
+            top: 432px;
+            color: #FFFFFF;
+            text-decoration: none;
+        }
+
+        .left-box .sass-sub-link{
+            position: absolute;
+            width: 55px;
+            height: 14px;
+            left: 113px;
+            top: 456px;
+            color: #FFFFFF;
+            text-decoration: none;
+        }
+        .right-box .admin-heading{
+            position: absolute;
+            width: 85px;
+            height: 38px;
+            left: 591px;
+            top: 218px;
+            font-family: Futura PT;
+            font-style: normal;
+            font-weight: 600;
+            font-size: 30px;
+            line-height: 38px;
+            text-transform: capitalize;
+            color: #999999;
+        }
+        .right-box .analytics-logo{
+            position: absolute;
+            width: 40px;
+            height: 40px;
+            left: 524px;
+            top: 291px;
+        }
+        .right-box .analytics{
+            position: absolute;
+            width: 66px;
+            height: 19px;
+            left: 511px;
+            top: 351px;
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: 500;
+            font-size: 16px;
+            line-height: 19px;
+            /* identical to box height */
+            text-align: center;
+            color: #212121;
+        }
+        .right-box .roles-permission-logo{
+            position: absolute;
+            width: 40px;
+            height: 40px;
+            left: 524px;
+            top: 425px;
+        }
+        .right-box .roles-permission{
+            position: absolute;
+            width: 148px;
+            height: 19px;
+            left: 470px;
+            top: 485px;
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: 500;
+            font-size: 16px;
+            line-height: 19px;
+            /* identical to box height */
+            text-align: center;
+            color: #212121;
+        }
+        .right-box .custom-logo{
+            position: absolute;
+            width: 40px;
+            height: 35px;
+            left: 524px;
+            top: 559px;
+        }
+        .right-box .custom{
+            position: absolute;
+            width: 96px;
+            height: 19px;
+            left: 496px;
+            top: 614px;
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: 500;
+            font-size: 16px;
+            line-height: 19px;
+            /* identical to box height */
+            text-align: center;
+            color: #212121;
+        }
+        .right-box .content-logo{
+            position: absolute;
+            width: 35px;
+            height: 40px;
+            left: 526px;
+            top: 688px;
+        }
+        .right-box .content{
+            position: absolute;
+            width: 143px;
+            height: 19px;
+            left: 472px;
+            top: 748px;
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: 500;
+            font-size: 16px;
+            line-height: 19px;
+            /* identical to box height */
+            text-align: center;
+            color: #212121;
+        }
+        .right-box .activity-logo{
+            position: absolute;
+            width: 40px;
+            height: 40px;
+            left: 693px;
+            top: 291px;
+        }
+        .right-box .activity{
+            position: absolute;
+            width: 89px;
+            height: 19px;
+            left: 668px;
+            top: 351px;
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: 500;
+            font-size: 16px;
+            line-height: 19px;
+            /* identical to box height */
+            text-align: center;
+            color: #212121;
+        }
+        .right-box .user-heading{
+            position: absolute;
+            width: 71px;
+            height: 38px;
+            left: 1034px;
+            top: 218px;
+            font-family: Futura PT;
+            font-style: normal;
+            font-weight: 600;
+            font-size: 30px;
+            line-height: 38px;
+            text-transform: capitalize;
+            color: #999999;
+        }
+        .right-box .search-logo{
+            position: absolute;
+            width: 40px;
+            height: 40px;
+            left: 925px;
+            top: 291px;
+        }
+        .right-box .search{
+            position: absolute;
+            width: 129px;
+            height: 19px;
+            left: 881px;
+            top: 351px;
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: 500;
+            font-size: 16px;
+            line-height: 19px;
+            /* identical to box height */
+            text-align: center;
+            color: #212121;
+        }
+
+        .right-box .image-uploader-logo{
+            position: absolute;
+            width: 40px;
+            height: 42px;
+            left: 925px;
+            top: 425px;
+        }
+        .right-box .image-uploader{
+            position: absolute;
+            width: 112px;
+            height: 19px;
+            left: 889px;
+            top: 487px;
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: 500;
+            font-size: 16px;
+            line-height: 19px;
+            /* identical to bo height */
+            text-align: center;
+            color: #212121;
+        }
+        .right-box .rating-logo{
+            position: absolute;
+            width: 40px;
+            height: 40px;
+            left: 926px;
+            top: 561px;
+        }
+        .right-box .rating{
+            position: absolute;
+            width: 136px;
+            height: 19px;
+            left: 877px;
+            top: 621px;
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: 500;
+            font-size: 16px;
+            line-height: 19px;
+            /* identical to box height */
+            text-align: center;
+            color: #212121;
+        }
+        .right-box .in-app-logo{
+            position: absolute;
+            width: 40px;
+            height: 41px;
+            left: 925px;
+            top: 695px;
+        }
+        .right-box .in-app{
+            position: absolute;
+            width: 130px;
+            height: 19px;
+            left: 880px;
+            top: 756px;
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: 500;
+            font-size: 16px;
+            line-height: 19px;
+            /* identical to box height */
+            text-align: center;
+            color: #212121;
+        }
+        .right-box .messaging-logo{
+            position: absolute;
+            width: 40px;
+            height: 43px;
+            left: 1144px;
+            top: 291px;
+
+        }
+        .right-box .messaging{
+            position: absolute;
+            width: 173px;
+            height: 19px;
+            left: 1077px;
+            top: 351px;
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: 500;
+            font-size: 16px;
+            line-height: 19px;
+            /* identical to box height */
+            text-align: center;
+            color: #212121;
+        }
+        .right-box .posts-comments-logo{
+            
+            position: absolute;
+            width: 40px;
+            height: 40px;
+            left: 1143px;
+            top: 427px;
+        }
+        .right-box .posts-comments{
+            position: absolute;
+            width: 128px;
+            height: 38px;
+            left: 1099px;
+            top: 487px;
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: 500;
+            font-size: 16px;
+            line-height: 19px;
+            text-align: center;
+            color: #212121;
+        }
+        .right-box .calender-logo{
+            position: absolute;
+            width: 39.56px;
+            height: 37px;
+            left: 1143px;
+            top: 564px;
+        }
+        .right-box .calender{
+            position: absolute;
+            width: 200px;
+            height: 19px;
+            left: 1063px;
+            top: 621px;
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: 500;
+            font-size: 16px;
+            line-height: 19px;
+            /* identical to box height */
+            text-align: center;
+            color: #212121;
+        }
+        .right-box .billing-heading{
+            position: absolute;
+            width: 79px;
+            height: 38px;
+            left: 1411px;
+            top: 218px;
+            font-family: Futura PT;
+            font-style: normal;
+            font-weight: 600;
+            font-size: 30px;
+            line-height: 38px;
+            text-transform: capitalize;
+            color: #999999;
+        }
+        .right-box .shopping-cart-logo{
+            position: absolute;
+            width: 40px;
+            height: 35px;
+            left: 1431px;
+            top: 293px;
+        }
+        .right-box .shopping-cart{
+            position: absolute;
+            width: 101px;
+            height: 19px;
+            left: 1400px;
+            top: 348px;
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: 500;
+            font-size: 16px;
+            line-height: 19px;
+            /* identical to box height */
+            text-align: center;
+            color: #212121;
+        }
+        .right-box .credit-card-logo{
+            position: absolute;
+            width: 40px;
+            height: 38px;
+            left: 1431px;
+            top: 427px;
+        }
+        .right-box .credit-card{
+            position: absolute;
+            width: 81px;
+            height: 19px;
+            left: 1410px;
+            top: 485px;
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: 500;
+            font-size: 16px;
+            line-height: 19px;
+            /* identical to box height */
+            text-align: center;
+            color: #212121;
+        }
+
+        .right-box .subscription{
+            position: absolute;
+            width: 134px;
+            height: 19px;
+            left: 1383px;
+            top: 614px;
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: 500;
+            font-size: 16px;
+            line-height: 19px;
+            /* identical to box height */
+            text-align: center;
+            color: #212121;
+        }
+        .right-box .subscription-logo{
+            position: absolute;
+            width: 40px;
+            height: 40px;
+            left: 1430px;
+            top: 554px;
+        }
+        .right-box .zephony-heading{
+            position: absolute;
+            width: 233px;
+            height: 38px;
+            left: 1630px;
+            top: 218px;
+            font-family: Futura PT;
+            font-style: normal;
+            font-weight: 600;
+            font-size: 30px;
+            line-height: 38px;
+            text-transform: capitalize;
+            color: #999999;
+        }
+
+        .right-box .timeline-logo{
+            position: absolute;
+            width: 40px;
+            height: 40px;
+            left: 1711px;
+            top: 293px;
+        }
+        .right-box .timeline{
+            position: absolute;
+            width: 63px;
+            height: 19px;
+            left: 1699px;
+            top: 353px;
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: 500;
+            font-size: 16px;
+            line-height: 19px;
+            /* identical to box height */
+            text-align: center;
+            color: #212121;
+        }
+        /* choose integrations5  */
+        .left-box .numclr-g-4{
+            position: absolute;
+            width: 30px;
+            height: 30px;
+            left: 50px;
+            top: 520px;
+            background: #26C749;
+            border-radius: 50%;
+        }
+        .left-box .nameclr-g-4{
+            position: absolute;
+            width: 78px;
+            height: 23px;
+            left: 103px;
+            top: 495px;
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: normal;
+            font-size: 20px;
+            line-height: 23px;
+            color: #26C749;
+        }
+
+        .left-box .numclr-5 {
+            position: absolute;
+            width: 30px;
+            height: 30px;
+            left: 50px;
+            top: 650px;
+            background: #FFFFFF;
+            border-radius: 50%;
+        }
+         .left-box .nameclr-5{
+            position: absolute;
+            width: 96px;
+            height: 23px;
+            left: 103px;
+            top: 625px;
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: normal;
+            font-size: 20px;
+            line-height: 23px;
+            color: #FFFFFF;
+         }
+        .left-box .admin-link{
+            position: absolute;
+            width: 192px;
+            height: 49px;
+            left: 113px;
+            top: 562px;
+            color: #FFFFFF;
+            text-decoration: none;
+        }
+        .left-box .no1-logo-5{
+            position: absolute;
+            left: 22.89%;
+            right: 93.39%;
+            top: 59.35%;
+            bottom: 39.1%;
+            border: 1.5px solid #CCCCCC;
+            box-sizing: border-box;
+        }
+        .left-box .user-logo-5{
+            position: absolute;
+            left: 23.79%;
+            right: 93.41%;
+            top: 61.55%;
+            bottom: 35.96%;
+        }
+        .left-box .billing-logo-5{
+            position: absolute;
+            left: 48.3%;
+            right: 87.97%;
+            top: 59.56%;
+            bottom: 38.97%;
+        }
+        .left-box .user-link{
+            position: absolute;
+            width: 192px;
+            height: 49px;
+            left: 113px;
+            top: 582px;
+            color: #FFFFFF;
+            text-decoration: none;
+        }
+        .left-box .billing-link{
+            position: absolute;
+            width: 192px;
+            height: 49px;
+            left: 203px;
+            top: 562px;
+            color: #FFFFFF;
+            text-decoration: none;
+        }
+        .left-box .zephony-link{
+            position: absolute;
+            width: 192px;
+            height: 49px;
+            left: 203px;
+            top: 582px;
+            color: #FFFFFF;
+            text-decoration: none;
+        }
+        .left-box .z-logo-5{
+            position: absolute;
+            width: 10px;
+            height: 19px;
+            left: 179px;
+            top: 582px;
+            font-family: Alegreya Sans SC;
+            font-style: normal;
+            font-weight: 900;
+            font-size: 16px;
+            line-height: 19px;
+            color: #CCCCCC;
+        }
+        .right-box .compile-logo{
+            position: absolute;
+            width: 75px;
+            height: 75px;
+            left: 960px;
+            top: 265px;
+        }
+        .right-box .word-communication{
+            position: absolute;
+            width: 100px;
+            height: 16px;
+            left: 947px;
+            top: 364px;
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: 500;
+            font-size: 14px;
+            line-height: 16px;
+            text-align: center;
+            color: #212121;
+        }
+        .right-box .external-logo{
+            position: absolute;
+            width: 75px;
+            height: 75px;
+            left: 1220px;
+            top: 265px;
+        }
+        .right-box .external{
+            position: absolute;
+            width: 123px;
+            height: 16px;
+            left: 1196px;
+            top: 364px;
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: 500;
+            font-size: 14px;
+            line-height: 16px;
+            text-align: center;
+            color: #212121;
+        }
+        .right-box .app-about{
+            position: absolute;
+            width: 142px;
+            height: 14px;
+            left: 926px;
+            top: 395px;
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: normal;
+            font-size: 12px;
+            line-height: 14px;
+            /* identical to box height */
+            text-align: center;
+            color: #AAAAAA;
+        }
+        .right-box .saas-about{
+            position: absolute;
+            width: 221px;
+            height: 35px;
+            left: 1147px;
+            top: 395px;
+            text-align: center;
+            color: #AAAAAA;
+            font-size: 12px;
+            line-height: 14px;
+        }
+        .right-box .zoho-about{
+            position: absolute;
+            width: 221px;
+            height: 35px;
+            left: 1147px;
+            top: 410px;
+            text-align: center;
+            color: #AAAAAA;
+            font-size: 12px;
+            line-height: 14px;
+        }
+        /* user&accounts6 */
+        
+        .left-box .numclr-g-5 {
+            position: absolute;
+            width: 30px;
+            height: 30px;
+            left: 50px;
+            top: 650px;
+            background: #26C749;
+            border-radius: 50%;
+        }
+         .left-box .nameclr-g-5{
+            position: absolute;
+            width: 96px;
+            height: 23px;
+            left: 103px;
+            top: 625px;
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: normal;
+            font-size: 20px;
+            line-height: 23px;
+            color: #26C749;
+            
+         }
+         .left-box .numclr-6{
+            position: absolute;
+            width: 30px;
+            height: 30px;
+            left: 50px;
+            top: 795px;
+            background: #FFFFFF;
+            border-radius: 50%;
+         }
+         .left-box .nameclr-6{
+            position: absolute;
+            width: 158px;
+            height: 23px;
+            left: 103px;
+            top: 770px;  
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: normal;
+            font-size: 20px;
+            line-height: 23px;
+            color: #FFFFFF;
+         }
+         .left-box .integration-logo-16{
+            position: absolute;
+            width: 16px;
+            height: 16px;
+            left: 93px;
+            top: 692px;
+         }
+         .left-box .external-logo-17{
+            position: absolute;
+            width: 16px;
+            height: 16px;
+            left: 93px;
+            top: 712px;
+         }
+         .left-box .communication-link{
+            position: absolute;
+            width: 134px;
+            height: 46.07px;
+            left: 113px;
+            top: 692px;
+            color: #FFFFFF;
+            text-decoration: none;
+         }
+         .left-box .external-intergration-link{
+            position: absolute;
+            width: 134px;
+            height: 46.07px;
+            left: 113px;
+            top: 712px;
+            color: #FFFFFF;
+            text-decoration: none;
+         }
+         .right-box .email-password-logo{
+            position: absolute;
+            width: 43.92px;
+            height: 56px;
+            left: 761px;
+            top: 270px;
+         }
+         .right-box .email-password{
+            position: absolute;
+            width: 155px;
+            height: 18px;
+            left: 707px;
+            top: 360px;
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: 500;
+            font-size: 14px;
+            line-height: 18px;
+            /* identical to box height, or 129% */
+            text-align: center;
+            color: #212121;
+         }
+         .right-box .otp-signup-logo{
+            position: absolute;
+            width: 59.86px;
+            height: 56px;
+            left: 1035px;
+            top: 270px;
+         }
+         .right-box .otp-signup{
+            position: absolute;
+            width: 119px;
+            height: 16px;
+            left: 1012px;
+            top: 360px;
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: 500;
+            font-size: 14px;
+            line-height: 16px;
+            text-align: center;
+            color: #212121;
+         }
+         .right-box .social-signup-logo{
+            position: absolute;
+            width: 80.89px;
+            height: 56px;
+            left: 1293px;
+            top: 271px;
+         }
+         .right-box .social-signup{
+            position: absolute;
+            width: 89px;
+            height: 16px;
+            left: 1281px;
+            top: 360px;
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: 500;
+            font-size: 14px;
+            line-height: 16px;
+            text-align: center;
+            color: #212121;
+         }
+         .right-box .fa-logo{
+            position: absolute;
+            width: 50.21px;
+            height: 56px;
+            left: 1527px;
+            top: 270px;
+         }
+         .right-box .fa{
+            position: absolute;
+            width: 24px;
+            height: 16px;
+            left: 1540px;
+            top: 360px;
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: 500;
+            font-size: 14px;
+            line-height: 16px;
+            text-align: center;
+            color: #212121;
+         }
+         .right-box .referal-management-logo{
+            position: absolute;
+            width: 42.19px;
+            height: 67.97px;
+            left: 1043px;
+            top: 460px;
+         }
+         .right-box .referal-management{
+            position: absolute;
+            width: 131px;
+            height: 16px;
+            left: 999px;
+            top: 554.97px;
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: 500;
+            font-size: 14px;
+            line-height: 16px;
+            text-align: center;
+            color: #212121;
+         }
+         .right-box .user-preferance-logo{
+            position: absolute;
+            width: 39.84px;
+            height: 67.97px;
+            left: 1239px;
+            top: 460px;
+         }
+         .right-box .user-preferance{
+            position: absolute;
+            width: 101px;
+            height: 16px;
+            left: 1208px;
+            top: 554.97px;
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: 500;
+            font-size: 14px;
+            line-height: 16px;
+            text-align: center;
+            color: #212121;
+         }
+
+         /* step7 */
+         .left-box-7{
+            position: absolute;
+            width: 1173px;
+            height: 947px;
+            left: 0px;
+            top: 0px;
+            background: linear-gradient(180deg, #2B2B36 0%, #16181A 100%);
+         }
+         .left-box-7 .zephony-main{
+            position: absolute;
+            width: 195px;
+            height: 60px;
+            left: 50px;
+            top: 30px;
+            font-family: Alegreya Sans SC;
+            font-style: normal;
+            font-weight: 900;
+            font-size: 50px;
+            line-height: 60px;
+            /* identical to box height */
+            color: #FFFFFF;
+         }
+       
+
+        .left-box-7 .nameclr-1{
+            position: absolute;
+            width: 118px;
+            height: 23px;
+            left: 103px;
+            top: 125px;
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: 500;
+            font-size: 20px;
+            line-height: 23px;
+            color: #26C749;
+         
+        }
+        .left-box-7 .dashed-line {
+            position: absolute;
+            width: 670px;
+            height: 0px;
+            left: -270px;
+            top: 490px;
+            border: 1px dashed #26C749;
+            transform: rotate(90deg);
+        }
+        .left-box-7 .project-type-1{
+            position: absolute;
+            width: 79px;
+            height: 21px;
+            left: 129px;
+            top: 177px;
+            font-family: Futura PT;
+            font-style: normal;
+            font-weight: 450;
+            font-size: 15px;
+            line-height: 21px;
+            /* identical to box height */
+            color: #CCCCCC;
+            text-decoration: none;
+        }
+        .left-box-7 .tinylogo-1{
+            position: absolute;
+            width: 16.93px;
+            height: 16.69px;
+            left: 103px;
+            top: 179px;
+        }
+        .left-box-7 .settings-1{
+            position: absolute;
+            width: 16px;
+            height: 16px;
+            left: 1107px;
+            top: 170px;
+        }
+       .left-box-7 .btn-1{
+        position: absolute;
+        width: 30px;
+        height: 30px;
+        left: 50px;
+        top: 147px;
+        background: #26C749;
+        border-radius: 50%;
+       }
+       .left-box-7 .btn-2{
+        position: absolute;
+        width: 30px;
+        height: 30px;
+        left: 50px;
+        top: 248px;
+        background: #26C749;
+        border-radius: 50%;
+       }
+       .left-box-7 .name-g-2{
+        position: absolute;
+        width: 78px;
+        height: 23px;
+        left: 103px;
+        top: 222px;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 20px;
+        line-height: 23px;
+        color: #26C749;
+       }
+       .left-box-7 .settings-2{
+        position: absolute;
+        width: 16px;
+        height: 16px;
+        left: 1107px;
+        top: 248px;
+       }
+       .left-box-7 .tinylogo-2{
+        position: absolute;
+        width: 15px;
+        height: 14px;
+        left: 107px;
+        top: 301px;
+       }
+       .left-box-7 .type-2{
+        position: absolute;
+        width: 106px;
+        height: 21px;
+        left: 130px;
+        top: 298px;
+        font-family: Futura PT;
+        font-style: normal;
+        font-weight: 450;
+        font-size: 16px;
+        line-height: 21px;
+        /* identical to box height */
+        color: #CCCCCC;
+        text-decoration: none;
+       }
+       .left-box-7 .type-3{
+        position: absolute;
+        width: 128px;
+        height: 21px;
+        left: 289px;
+        top: 298px;
+        font-family: Futura PT;
+        font-style: normal;
+        font-weight: 450;
+        font-size: 16px;
+        line-height: 21px;
+        /* identical to box height */
+        color: #CCCCCC;
+        text-decoration: none;
+       }
+       .left-box-7 .tinylogo-3{
+        position: absolute;
+        width: 15px;
+        height: 14.86px;
+        left: 266px;
+        top: 300px;
+        
+       }
+       .left-box-7 .btn-3{
+        position: absolute;
+        width: 30px;
+        height: 30px;
+        left: 50px;
+        top: 369px;
+        background: #26C749;
+        border-radius: 50%;
+       }
+       .left-box-7 .name-g-3{
+        position: absolute;
+        width: 123px;
+        height: 23px;
+        left: 103px;
+        top: 348px;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 20px;
+        line-height: 23px;
+        color: #26C749;
+       }
+       .left-box-7 .settings-3{
+        position: absolute;
+        width: 16px;
+        height: 16px;
+        left: 1107px;
+        top: 369px;
+       }
+       .left-box-7 .tinylogo-4{
+        position: absolute;
+        width: 18px;
+        height: 12px;
+        left: 107px;
+        top: 423px;
+       }
+       .left-box-7 .type-4{
+        position: absolute;
+        width: 34px;
+        height: 21px;
+        left: 133px;
+        top: 419px;
+        font-family: Futura PT;
+        font-style: normal;
+        font-weight: 450;
+        font-size: 16px;
+        line-height: 21px;
+        /* identical to box height */
+        color: #CCCCCC;
+        text-decoration: none;
+       }
+       .left-box-7 .btn-4{
+        position: absolute;
+        width: 30px;
+        height: 30px;
+        left: 50px;
+        top: 490px;
+        background: #26C749;
+        border-radius: 50%;
+       }
+       .left-box-7 .name-g-4{
+        position: absolute;
+        width: 78px;
+        height: 23px;
+        left: 103px;
+        top: 468px;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 20px;
+        line-height: 23px;
+        color: #26C749;
+       }
+       .left-box-7 .settings-4{
+        position: absolute;
+        width: 16px;
+        height: 16px;
+        left: 1107px;
+        top: 490px; 
+       }
+       .left-box-7 .tinylogo-5{
+        position: absolute;
+        width: 16px;
+        height: 15.16px;
+        left: 106px;
+        top: 543px;
+       }
+       .left-box-7 .type-5{
+        position: absolute;
+        width: 59px;
+        height: 21px;
+        left: 130px;
+        top: 540px;
+        font-family: Futura PT;
+        font-style: normal;
+        font-weight: 450;
+        font-size: 16px;
+        line-height: 21px;
+        /* identical to box height */
+        color: #CCCCCC;
+        text-decoration: none;
+       }
+       .left-box-7 .tinylogo-6{
+        position: absolute;
+        width: 16px;
+        height: 18.16px;
+        left: 219px;
+        top: 540px;
+       }
+       .left-box-7 .type-6{
+        position: absolute;
+        width: 125px;
+        height: 21px;
+        left: 243px;
+        top: 540px;
+        font-family: Futura PT;
+        font-style: normal;
+        font-weight: 450;
+        font-size: 16px;
+        line-height: 21px;
+        /* identical to box height */
+        text-align: center;
+        text-decoration: none;
+        color: #CCCCCC;
+       }
+       .left-box-7 .tinylogo-7{
+        position: absolute;
+        width: 16px;
+        height: 13.71px;
+        left: 398px;
+        top: 544px;
+       }
+       .left-box-7 .type-7{
+        position: absolute;
+        width: 78px;
+        height: 21px;
+        left: 422px;
+        top: 540px;
+        font-family: Futura PT;
+        font-style: normal;
+        font-weight: 450;
+        font-size: 16px;
+        line-height: 21px;
+        /* identical to box height */
+        text-align: center;
+        color: #CCCCCC;
+        text-decoration: none;
+       }
+       .left-box-7 .tinylogo-8{
+        position: absolute;
+        width: 16px;
+        height: 16px;
+        left: 106px;
+        top: 584px;
+       }
+       .left-box-7 .type-8{
+        position: absolute;
+        width: 113px;
+        height: 21px;
+        left: 130px;
+        top: 581px;
+        font-family: Futura PT;
+        font-style: normal;
+        font-weight: 450;
+        font-size: 16px;
+        line-height: 21px;
+        /* identical to box height */
+        color: #CCCCCC;
+        text-decoration: none;
+       }
+       .left-box-7 .tinylogo-9{
+        position: absolute;
+        width: 16px;
+        height: 17.6px;
+        left: 273px;
+        top: 583px;
+       }
+       .left-box-7 .type-9{
+        position: absolute;
+        width: 121px;
+        height: 21px;
+        left: 297px;
+        top: 581px;
+        font-family: Futura PT;
+        font-style: normal;
+        font-weight: 450;
+        font-size: 16px;
+        line-height: 21px;
+        /* identical to box height */
+        color: #CCCCCC;
+        text-decoration: none;
+       }
+       .left-box-7 .tinylogo-10{
+        position: absolute;
+        width: 16px;
+        height: 18.82px;
+        left: 448px;
+        top: 582px;
+       }
+       .left-box-7 .type-10{
+        position: absolute;
+        width: 115px;
+        height: 21px;
+        left: 472px;
+        top: 581px;
+        font-family: Futura PT;
+        font-style: normal;
+        font-weight: 450;
+        font-size: 16px;
+        line-height: 21px;
+        /* identical to box height */
+        color: #CCCCCC;
+        text-decoration: none;
+       }
+       .left-box-7 .tinylogo-11{
+        position: absolute;
+        width: 16px;
+        height: 16px;
+        left: 617px;
+        top: 584px;
+       }
+       .left-box-7 .type-11{
+        position: absolute;
+        width: 196px;
+        height: 21px;
+        left: 641px;
+        top: 581px;
+        font-family: Futura PT;
+        font-style: normal;
+        font-weight: 450;
+        font-size: 16px;
+        line-height: 21px;
+        /* identical to box height */
+        color: #CCCCCC;
+        text-decoration: none;
+       }
+       .left-box-7 .tinylogo-12{
+        position: absolute;
+        width: 16px;
+        height: 14.4px;
+        left: 867px;
+        top: 585px;
+       }
+       .left-box-7 .type-12{
+        position: absolute;
+        width: 153px;
+        height: 21px;
+        left: 891px;
+        top: 581px;
+        font-family: Futura PT;
+        font-style: normal;
+        font-weight: 450;
+        font-size: 16px;
+        line-height: 21px;
+        /* identical to box height */
+        text-decoration: none;
+        color: #CCCCCC;
+       }
+       .left-box-7 .tinylogo-13{
+        position: absolute;
+        width: 16px;
+        height: 16px;
+        left: 106px;
+        top: 625px;
+       }
+       .left-box-7 .type-13{
+        position: absolute;
+        width: 74px;
+        height: 21px;
+        left: 130px;
+        top: 622px;
+        font-family: Futura PT;
+        font-style: normal;
+        font-weight: 450;
+        font-size: 16px;
+        line-height: 21px;
+        /* identical to box height */
+        text-align: center;
+        color: #CCCCCC;
+        text-decoration: none;
+       }
+       .left-box-7 .tinylogo-14{
+        position: absolute;
+        width: 16px;
+        height: 16.67px;
+        left: 234px;
+        top: 624px;
+       }
+       .left-box-7 .type-14{
+        position: absolute;
+        width: 90px;
+        height: 21px;
+        left: 258px;
+        top: 622px;
+        font-family: Futura PT;
+        font-style: normal;
+        font-weight: 450;
+        font-size: 16px;
+        line-height: 21px;
+        /* identical to box height */
+        text-align: center;
+        color: #CCCCCC;
+        text-decoration: none;
+       }
+       .left-box-7 .tinylogo-15{
+        position: absolute;
+        width: 16px;
+        height: 17.78px;
+        left: 378px;
+        top: 624px;
+       }
+       .left-box-7 .type-15{
+        position: absolute;
+        width: 116px;
+        height: 21px;
+        left: 402px;
+        top: 622px;
+        font-family: Futura PT;
+        font-style: normal;
+        font-weight: 450;
+        font-size: 16px;
+        line-height: 21px;
+        /* identical to box height */
+        text-align: center;
+        color: #CCCCCC;
+        text-decoration: none;
+       }
+       .left-box-7 .btn-5{
+        position: absolute;
+        width: 30px;
+        height: 30px;
+        left: 50px;
+        top: 693px;
+        background: #26C749;
+        border-radius: 50%;
+       }
+       .left-box-7 .name-g-5{
+        position: absolute;
+        width: 96px;
+        height: 23px;
+        left: 103px;
+        top: 670px;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 20px;
+        line-height: 23px;
+        color: #26C749;
+       }
+       .left-box-7 .settings-5{
+        position: absolute;
+        width: 16px;
+        height: 16px;
+        left: 1107px;
+        top: 693px;
+       }
+       .left-box-7 .tinylogo-16{
+        position: absolute;
+        width: 15px;
+        height: 15px;
+        left: 107px;
+        top: 745px;
+       }
+       .left-box-7 .type-16{
+        position: absolute;
+        width: 99px;
+        height: 21px;
+        left: 130px;
+        top: 743px;
+        font-family: Futura PT;
+        font-style: normal;
+        font-weight: 450;
+        font-size: 16px;
+        line-height: 21px;
+        /* identical to box height */
+        color: #CCCCCC;
+        text-decoration: none;
+       }
+       .left-box-7 .tinylogo-17{
+        position: absolute;
+        width: 15px;
+        height: 15.07px;
+        left: 259px;
+        top: 745px;
+       }
+       .left-box-7 .type-17{
+        position: absolute;
+        width: 131px;
+        height: 21px;
+        left: 282px;
+        top: 743px;
+        font-family: Futura PT;
+        font-style: normal;
+        font-weight: 450;
+        font-size: 16px;
+        line-height: 21px;
+        /* identical to box height */
+        color: #CCCCCC;
+        text-decoration: none;
+       }
+       .left-box-7 .btn-6{
+        position: absolute;
+        width: 30px;
+        height: 30px;
+        left: 50px;
+        top: 814px;
+        background: #26C749;
+        border-radius: 50%;
+
+       }
+       .left-box-7 .name-g-6{
+        position: absolute;
+        width: 158px;
+        height: 23px;
+        left: 103px;
+        top: 790px;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 20px;
+        line-height: 23px;
+        color: #26C749;
+       }
+       .left-box-7 .settings-6{
+        position: absolute;
+        width: 16px;
+        height: 16px;
+        left: 1107px;
+        top: 814px;
+       }
+       .left-box-7 .tinylogo-18{
+        position: absolute;
+        width: 15px;
+        height: 12px;
+        left: 107px;
+        top: 868px;
+       }
+       .left-box-7 .type-18{
+        position: absolute;
+        width: 158px;
+        height: 21px;
+        left: 130px;
+        top: 864px;
+        font-family: Futura PT;
+        font-style: normal;
+        font-weight: 450;
+        font-size: 16px;
+        line-height: 21px;
+        /* identical to box height */
+        color: #CCCCCC;
+        text-decoration: none;
+       }
+       .left-box-7 .tinylogo-19{
+        position: absolute;
+        width: 15px;
+        height: 10.91px;
+        left: 318px;
+        top: 868px;
+       }
+       .left-box-7 .type-19{
+        position: absolute;
+        width: 91px;
+        height: 21px;
+        left: 341px;
+        top: 864px;
+        font-family: Futura PT;
+        font-style: normal;
+        font-weight: 450;
+        font-size: 16px;
+        line-height: 21px;
+        /* identical to box height */
+        color: #CCCCCC;
+        text-decoration: none;
+       }
+       .left-box-7 .tinylogo-20{
+        position: absolute;
+        width: 12px;
+        height: 15.12px;
+        left: 462px;
+        top: 866px;
+       }
+       .left-box-7 .type-20{
+        position: absolute;
+        width: 122px;
+        height: 21px;
+        left: 485px;
+        top: 864px;
+        font-family: Futura PT;
+        font-style: normal;
+        font-weight: 450;
+        font-size: 16px;
+        line-height: 21px;
+        /* identical to box height */
+        color: #CCCCCC;
+        text-decoration: none;
+       }
+       .right-box .rought-main{
+        position: absolute;
+        width: 266px;
+        height: 38px;
+        left: 1275px;
+        top: 30px;
+        font-family: Futura PT;
+        font-style: normal;
+        font-weight: 450;
+        font-size: 30px;
+        line-height: 38px;
+        color: #000000;
+       }
+       .right-box .e-com{
+        position: absolute;
+        width: 116px;
+        height: 20px;
+        left: 1275px;
+        top: 95px;
+        font-family: Futura PT;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 22px;
+        line-height: 20px;
+        /* identical to box height, or 83% */
+        color: #555555;
+       }
+       .right-box .ruppee{
+        position: absolute;
+        width: 65px;
+        height: 20px;
+        left: 1752px;
+        top: 95px;
+        font-family: Futura PT;
+        font-style: normal;
+        font-weight: 450;
+        font-size: 24px;
+        line-height: 20px;
+        /* identical to box height, or 83% */
+        text-align: right;
+        color: #111111;
+       }
+       .right-box .platform-1{
+        position: absolute;
+        width: 76px;
+        height: 20px;
+        left: 1275px;
+        top: 145px;
+        font-family: Futura PT;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 24px;
+        line-height: 20px;
+        /* identical to box height, or 83% */
+        color: #555555;
+       }
+       .right-box .ruppee-1{
+        position: absolute;
+        width: 68px;
+        height: 20px;
+        left: 1749px;
+        top: 145px;
+        font-family: Futura PT;
+        font-style: normal;
+        font-weight: 450;
+        font-size: 24px;
+        line-height: 20px;
+        /* identical to box height, or 83% */
+        text-align: right;
+        color: #111111;
+       }
+       .right-box .platform-2{
+        position: absolute;
+        width: 129px;
+        height: 20px;
+        left: 1275px;
+        top: 195px;
+        font-family: Futura PT;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 24px;
+        line-height: 20px;
+        /* identical to box height, or 83% */
+        color: #555555;
+       }
+       .right-box .ruppee-2{
+        position: absolute;
+        width: 53px;
+        height: 20px;
+        left: 1764px;
+        top: 195px;
+        font-family: Futura PT;
+        font-style: normal;
+        font-weight: 450;
+        font-size: 24px;
+        line-height: 20px;
+        /* identical to box height, or 83% */
+        text-align: right;
+        color: #111111;
+       }
+       .right-box .platform-3{
+        position: absolute;
+        width: 77px;
+        height: 20px;
+        left: 1275px;
+        top: 245px;
+        font-family: Futura PT;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 24px;
+        line-height: 20px;
+        /* identical to box height, or 83% */
+        color: #555555;
+       }
+       .right-box .ruppee-3{
+        position: absolute;
+        width: 69px;
+        height: 20px;
+        left: 1748px;
+        top: 245px;
+        font-family: Futura PT;
+        font-style: normal;
+        font-weight: 450;
+        font-size: 24px;
+        line-height: 20px;
+        /* identical to box height, or 83% */
+        text-align: right;
+        color: #111111;
+       }
+       .right-box .platform-4{
+        position: absolute;
+        width: 100px;
+        height: 20px;
+        left: 1275px;
+        top: 295px;
+        font-family: Futura PT;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 24px;
+        line-height: 20px;
+        /* identical to box height, or 83% */
+        color: #555555;
+       }
+       .right-box .ruppee-4{
+        position: absolute;
+        width: 67px;
+        height: 20px;
+        left: 1750px;
+        top: 295px;
+        font-family: Futura PT;
+        font-style: normal;
+        font-weight: 450;
+        font-size: 24px;
+        line-height: 20px;
+        /* identical to box height, or 83% */
+        text-align: right;
+        color: #111111;
+       }
+       .right-box .platform-5{
+        position: absolute;
+        width: 162px;
+        height: 20px;
+        left: 1275px;
+        top: 345px;
+        font-family: Futura PT;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 24px;
+        line-height: 20px;
+        /* identical to box height, or 83% */
+        color: #555555;
+       }
+       .right-box .ruppee-5{
+        position: absolute;
+        width: 55px;
+        height: 20px;
+        left: 1762px;
+        top: 345px;
+        font-family: Futura PT;
+        font-style: normal;
+        font-weight: 450;
+        font-size: 24px;
+        line-height: 20px;
+        /* identical to box height, or 83% */
+        text-align: right;
+        color: #111111;
+       }
+       .right-box .green-bg{
+        position: absolute;
+        width: 594px;
+        height: 115px;
+        left: 1249px;
+        top: 395px;
+        background: linear-gradient(180deg, #0C8F48 0%, #03744B 100%);
+        border-radius: 10px;
+       }
+       .right-box .total-1{
+        position: absolute;
+        width: 50px;
+        height: 20px;
+        left: 1275px;
+        top: 380px;
+        font-family: Futura PT;
+        font-style: normal;
+        font-weight: 450;
+        font-size: 26px;
+        line-height: 20px;
+        /* identical to box height, or 77% */
+        color: #FFFFFF;
+       }
+       .right-box .total-final{
+        position: absolute;
+        width: 74px;
+        height: 20px;
+        left: 1743px;
+        top: 380px;
+        font-family: Futura PT;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 26px;
+        line-height: 20px;
+        /* identical to box height, or 77% */
+        text-align: right;
+        color: #FFFFFF;
+       }
+       .right-box .build{
+        position: absolute;
+        width: 125px;
+        height: 20px;
+        left: 1275px;
+        top: 445px;
+        font-family: Futura PT;
+        font-style: normal;
+        font-weight: 450;
+        font-size: 26px;
+        line-height: 20px;
+        /* identical to box height, or 77% */
+        color: #FFFFFF;
+       }
+       .right-box .build-weeks{
+        position: absolute;
+        width: 104px;
+        height: 20px;
+        left: 1713px;
+        top: 445px;
+        font-family: Futura PT;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 26px;
+        line-height: 20px;
+        /* identical to box height, or 77% */
+        text-align: right;
+        color: #FFFFFF;
+       }
+       .right-box .input-area{
+        position: absolute;
+        width: 50px;
+        height: 26px;
+        left: 1249px;
+        top: 560px;
+        font-family: Futura PT;
+        font-style: normal;
+        font-weight: 450;
+        font-size: 20px;
+        line-height: 26px;
+        /* identical to box height */
+        color: #343A3A;
+       }
+       .right-box .input-box-1{
+        position: absolute;
+        width: 594px;
+        height: 60px;
+        left: 1249px;
+        top: 610px;
+        background: #FFFFFF;
+        border: 1.25px solid #C5C7CA;
+        box-sizing: border-box;
+        border-radius: 4px;
+       }
+       .right-box .input-email{
+        position: absolute;
+        width: 44px;
+        height: 26px;
+        left: 1249px;
+        top: 690px;
+        font-family: Futura PT;
+        font-style: normal;
+        font-weight: 450;
+        font-size: 20px;
+        line-height: 26px;
+        /* identical to box height */
+        color: #343A3A;
+       }
+       .right-box .input-box-2{
+        position: absolute;
+        width: 594px;
+        height: 60px;
+        left: 1249px;
+        top: 740px;
+        background: #FFFFFF;
+        border: 1.25px solid #C5C7CA;
+        box-sizing: border-box;
+        border-radius: 4px;
+       }
+       .right-box .email-me{
+        position: absolute;
+        width: 231px;
+        height: 50px;
+        left: 1431px;
+        top: 820px;
+        background: linear-gradient(96.44deg, #2B2B36 4.11%, #16191A 95.73%);
+        border-radius: 5px;
+        position: absolute;
+
+       }
+       .right-box .email-btn{
+        position: absolute;
+        width: 171px;
+        height: 30px;
+        left: 1461px;
+        top: 800px;
+        font-family: Futura PT;
+        font-style: normal;
+        font-weight: 450;
+        font-size: 22px;
+        line-height: 31px;
+        text-align: center;
+        color: #FFFFFF;
+        cursor: pointer;
+       }
+
+      @media screen and (max-width:500px){
+          .right-box{
+              width: 100%;
+          }
+      }
