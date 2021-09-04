@@ -7,30 +7,32 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" crossorigin="anonymous">    
     <link rel="stylesheet" href="./assets/css/style.css">
     <title>Zephony</title>
+   
   </head>
   <body>
-    <div class="left-box">
+    <div class="left-box" >
         <h1 class="heading1">Estimate your app</h1>
-        <button class="num-1">1</button>
+        <button class="num-1" >1</button>
         <h4 class="name-1">Project types</h4>
         <pre class="dashed-line"></pre>
-        <button class="num-2">2</button>
+        <button class="num-2" onclick="document.location='platform2.html'">2</button>
         <h4 class="name-2">Platform</h4>
-        <button class="num-3">3</button>
+        <button class="num-3" onclick="document.location='projectusage3.html'" >3</button>
         <h4 class="name-3">Project usage</h4>
-        <button class="num-4">4</button>
+        <button class="num-4" onclick="document.location='choosefeautures4.html'">4</button>
         <h4 class="name-4">Features</h4>
-        <button class="num-5">5</button>
+        <button class="num-5" onclick="document.location='chooseintegrations5.html'">5</button>
         <h4 class="name-5">Integration</h4>
-        <button class="num-6">6</button>
+        <button class="num-6" onclick="document.location='user&accounts6.html'" >6</button>
         <h4 class="name-6">Users & Accounts</h4>
     </div>
-    <div class="right-box">
+    <div class="right-box" style="overflow: auto;" >
         <h2 class="title">Zephony</h2>
         <h1 class="sub-head">Choose product type</h1>
-        <div class="icon-bar">
-            <a href="#"><img src="./assets/images/Rectangle 80.png" alt=""class="e-commerce-border"><img src="./assets/images/Group 589 (1).png" alt="" class="tick"></a>
-            <a href="#" title="e-commerce"><i class="icon"><img src="./assets/images/Group 564.png" alt=""></i></a>
+        <div class="icon-bar" >
+          <div class="active">
+            <a href="#"><img src="./assets/images/Rectangle 80.png" alt=""class="e-commerce-border" ><img src="./assets/images/Group 589 (1).png" alt="" class="tick"></a>
+            <a href="#" title="e-commerce"><i class="icon"><img src="./assets/images/Group 564.png" alt="" onclick="myFunction()"></i></a>
             <h3>E-commerce</h3>
             <a href="#"><img src="./assets/images/Group 565.png" alt="" class="crm-logo"></a>
             <h3 class="crm">CRM</h3>
@@ -40,6 +42,7 @@
             <h3 class="social">Social Networking</h3>
             <a href="#"><img src="./assets/images/Group 568.png" alt="" class="forum-logo"></a>
             <h3 class="forum">Forum</h3>
+          </div>  
         </div>
         <div class="right-down-box">
             <a href="#"><img src="./assets/images/Group 569.png" alt="" class="team-logo"></a>
@@ -54,13 +57,13 @@
             <h3 class="other">Other</h3>
         </div>
     </div>
-    <div class="bottom-bar">
-        <h4 class="footer-1">Rough Estimate</h4>
+    <div class="bottom-bar" onclick="">
+        <h4 class="footer-1" >Rough Estimate</h4>
         <h3 class="dollar-fee">$3650.00</h3>
         <h4 class="footer-2">Rough Timeline</h4>
         <h3 class="time-alloted">5 weeks</h3>
-        <button class="previous-btn">Previous</button>
-        <button class="next-btn">Next</button>
+        <button class="previous-btn"  >Previous</button>
+        <button class="next-btn" onclick="document.location='platform2.html'" >Next</button>
     </div>
 
   </body>

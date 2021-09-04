@@ -1,5 +1,9 @@
 
 
+* {
+    box-sizing: border-box;
+  }
+
     #body {
             margin: 0 auto;
             width: 80%;
@@ -31,6 +35,7 @@
         }
 
     .right-box .title{
+            float: left;
             position: absolute;
             width: 195px;
             height: 60px;
@@ -42,6 +47,7 @@
             font-size: 50px;
             line-height: 60px;
             color: #403D3D;
+           
         }
         .right-box .sub-head{
             position: absolute;
@@ -2771,8 +2777,4 @@
         cursor: pointer;
        }
 
-      @media screen and (max-width:500px){
-          .right-box{
-              width: 100%;
-          }
-      }
+       
